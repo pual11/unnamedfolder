@@ -1,0 +1,19 @@
+body{
+	margin: auto;
+	background-color: #7b516f;
+
+
+}
+#holder{
+	position: center;
+	width: 1300px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 11px;
+	margin-bottom: 21px;
+}
+#fixed{
+	position: fixed;
+
+}
